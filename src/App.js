@@ -2,7 +2,7 @@
 // import './App.css';
 
 import React from "react";
-import CreateHeader from "./components/Header";
+import CreateHeader from "./components/style/Header.js";
 import styled from "styled-components";
 
 function App() {
